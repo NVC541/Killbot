@@ -1,5 +1,15 @@
 import java.awt.*;
+import java.util.*;
 import java.applet.*;
+
+/*
+PLAN OF ACTION:
+
+1 - make an outline of the events and split it up, delegate between members
+2 - write the classes and methods required
+3 - organize the classes and methods into the "main" file in such a manner that it creates the desired product
+
+*/
 
 public class Killbot extends Applet {
     public void paint(Graphics g) {
