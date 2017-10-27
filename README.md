@@ -1,2 +1,2 @@
 # Killbot
-Rendition of Killbot by Lithifusion.
+Rendition of the Geometry Dash level "Killbot" by "Lithifusion."
