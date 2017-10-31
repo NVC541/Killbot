@@ -1,2 +1,3 @@
 # Killbot
-Rendition of the Geometry Dash level "Killbot" by Lithifusion.
+Rendition of Killbot by Lithifusion in Java.
+
