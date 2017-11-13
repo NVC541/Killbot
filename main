@@ -16,3 +16,89 @@ public class Killbot extends Applet {
         
     }
 }
+
+
+class Letters {
+    public void a() {
+        //Letter a
+    }
+    public void b() {
+        //Letter b
+    }
+    public void c() {
+        //Letter c
+    }
+    public void d() {
+        //Letter d
+    }
+    public void e() {
+        //Letter e
+    }
+    public void f() {
+        //Letter f
+    }
+    public void g() {
+        //Letter g
+    }
+    public void h() {
+        //Letter h
+    }
+    public void i() {
+        //Letter i
+        g.fillRect(170,170,15,3);
+        g.fillRect(175,173,5,20);
+        g.fillRect(170,193,15,3);
+    }
+    public void j() {
+        //Letter j
+    }
+    public void k() {
+        //Letter k
+    }
+    public void l() {
+        //Letter l
+    }
+    public void m() {
+        //Letter m
+    }
+    public void n() {
+        //Letter n
+    }
+    public void o() {
+        //Letter o
+    }
+    public void p() {
+        //Letter p
+    }
+    public void q() {
+        //Letter q
+    }
+    public void r() {
+        //Letter r
+    }
+    public void s() {
+        //Letter s
+    }
+    public void t() {
+        //Letter t
+    }
+    public void u() {
+        //Letter u
+    }
+    public void v() {
+        //Letter v
+    }
+    public void w() {
+        //Letter w
+    }
+    public void x() {
+        //Letter x
+    }
+    public void y() {
+        //Letter y
+    }
+    public void z() {
+        //Letter z
+    }
+    
+}
