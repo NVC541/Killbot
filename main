@@ -46,8 +46,8 @@ class Letters {
     public void i() {
         //Letter i
         g.fillRect(170,170,15,3);
-        g.fillRect(175,173,5,20);
-        g.fillRect(170,193,15,3);
+        g.fillRect(175,173,5,19);
+        g.fillRect(170,192,15,3);
     }
     public void j() {
         //Letter j
